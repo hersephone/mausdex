@@ -1,0 +1,19 @@
+{
+  "name": "mausdex",
+  "version": "1.0.0",
+  "description": "a searchable pokedex",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hersephone/mausdex.git"
+  },
+  "author": "hersephone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hersephone/mausdex/issues"
+  },
+  "homepage": "https://github.com/hersephone/mausdex#readme"
+}
