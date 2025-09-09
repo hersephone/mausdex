@@ -1,0 +1,6 @@
+Latin America Pokémon VGC International Championship 2025,Ursaluna,Ghost,Guts,Flame Orb,Headlong Rush,Facade,Earthquake,Protect
+Latin America Pokémon VGC International Championship 2025,Jumpluff,Water,Chlorophyll,Covert Cloak,Sleep Powder,Sunny Day,Tailwind,Rage Powder
+Latin America Pokémon VGC International Championship 2025,Charizard,Ghost,Solar Power,Choice Specs,Air Slash,Heat Wave,Overheat,Weather Ball
+Latin America Pokémon VGC International Championship 2025,Torkoal,Fire,Drought,Eject Pack,Helping Hand,Eruption,Overheat,Protect
+Latin America Pokémon VGC International Championship 2025,Incineroar,Ghost,Intimidate,Sitrus Berry,Fake Out,Flare Blitz,Knock Off,Parting Shot
+Latin America Pokémon VGC International Championship 2025,Porygon2,Fighting,Download,Eviolite,Tera Blast,Ice Beam,Recover,Trick Room
