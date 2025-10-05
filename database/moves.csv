@@ -1,0 +1,903 @@
+#,Table Number,Generation,Name,Type,Category,PP,Power,Accuracy
+4090,4,09,N/A,01090,N/A,0,0,0.00
+4091,4,09,Pound,01091,Physical,35,40,1.00
+4092,4,09,Karate Chop,01092,Physical,25,50,1.00
+4093,4,09,Double Slap,01091,Physical,10,15,0.85
+4094,4,09,Comet Punch,01091,Physical,15,18,0.85
+4095,4,09,Mega Punch,01091,Physical,20,80,0.85
+4096,4,09,Pay Day,01091,Physical,20,40,1.00
+4097,4,09,Fire Punch,010910,Physical,15,75,1.00
+4098,4,09,Ice Punch,010915,Physical,15,75,1.00
+4099,4,09,Thunder Punch,010913,Physical,15,75,1.00
+40910,4,09,Scratch,01091,Physical,35,40,1.00
+40911,4,09,Vise Grip,01091,Physical,30,55,1.00
+40912,4,09,Guillotine,01091,Physical,5,0,0.30
+40913,4,09,Razor Wind,01091,Special,10,80,1.00
+40914,4,09,Swords Dance,01091,Status,20,0,0.00
+40915,4,09,Cut,01091,Physical,30,50,0.95
+40916,4,09,Gust,01093,Special,35,40,1.00
+40917,4,09,Wing Attack,01093,Physical,35,60,1.00
+40918,4,09,Whirlwind,01091,Status,20,0,0.00
+40919,4,09,Fly,01093,Physical,15,90,0.95
+40920,4,09,Bind,01091,Physical,20,15,0.85
+40921,4,09,Slam,01091,Physical,20,80,0.75
+40922,4,09,Vine Whip,010912,Physical,25,45,1.00
+40923,4,09,Stomp,01091,Physical,20,65,1.00
+40924,4,09,Double Kick,01092,Physical,30,30,1.00
+40925,4,09,Mega Kick,01091,Physical,5,120,0.75
+40926,4,09,Jump Kick,01092,Physical,10,100,0.95
+40927,4,09,Rolling Kick,01092,Physical,15,60,0.85
+40928,4,09,Sand Attack,01095,Status,15,0,1.00
+40929,4,09,Headbutt,01091,Physical,15,70,1.00
+40930,4,09,Horn Attack,01091,Physical,25,65,1.00
+40931,4,09,Fury Attack,01091,Physical,20,15,0.85
+40932,4,09,Horn Drill,01091,Physical,5,0,0.30
+40933,4,09,Tackle,01091,Physical,35,40,1.00
+40934,4,09,Body Slam,01091,Physical,15,85,1.00
+40935,4,09,Wrap,01091,Physical,20,15,0.90
+40936,4,09,Take Down,01091,Physical,20,90,0.85
+40937,4,09,Thrash,01091,Physical,10,120,1.00
+40938,4,09,Double-Edge,01091,Physical,15,120,1.00
+40939,4,09,Tail Whip,01091,Status,30,0,1.00
+40940,4,09,Poison Sting,01094,Physical,35,15,1.00
+40941,4,09,Twineedle,01097,Physical,20,25,1.00
+40942,4,09,Pin Missile,01097,Physical,20,25,0.95
+40943,4,09,Leer,01091,Status,30,0,1.00
+40944,4,09,Bite,010917,Physical,25,60,1.00
+40945,4,09,Growl,01091,Status,40,0,1.00
+40946,4,09,Roar,01091,Status,20,0,0.00
+40947,4,09,Sing,01091,Status,15,0,0.55
+40948,4,09,Supersonic,01091,Status,20,0,0.55
+40949,4,09,Sonic Boom,01091,Special,20,0,0.90
+40950,4,09,Disable,01091,Status,20,0,1.00
+40951,4,09,Acid,01094,Special,30,40,1.00
+40952,4,09,Ember,010910,Special,25,40,1.00
+40953,4,09,Flamethrower,010910,Special,15,90,1.00
+40954,4,09,Mist,010915,Status,30,0,0.00
+40955,4,09,Water Gun,010911,Special,25,40,1.00
+40956,4,09,Hydro Pump,010911,Special,5,110,0.80
+40957,4,09,Surf,010911,Special,15,90,1.00
+40958,4,09,Ice Beam,010915,Special,10,90,1.00
+40959,4,09,Blizzard,010915,Special,5,110,0.70
+40960,4,09,Psybeam,010914,Special,20,65,1.00
+40961,4,09,Bubble Beam,010911,Special,20,65,1.00
+40962,4,09,Aurora Beam,010915,Special,20,65,1.00
+40963,4,09,Hyper Beam,01091,Special,5,150,0.90
+40964,4,09,Peck,01093,Physical,35,35,1.00
+40965,4,09,Drill Peck,01093,Physical,20,80,1.00
+40966,4,09,Submission,01092,Physical,20,80,0.80
+40967,4,09,Low Kick,01092,Physical,20,0,1.00
+40968,4,09,Counter,01092,Physical,20,0,1.00
+40969,4,09,Seismic Toss,01092,Physical,20,0,1.00
+40970,4,09,Strength,01091,Physical,15,80,1.00
+40971,4,09,Absorb,010912,Special,25,20,1.00
+40972,4,09,Mega Drain,010912,Special,15,40,1.00
+40973,4,09,Leech Seed,010912,Status,10,0,0.90
+40974,4,09,Growth,01091,Status,20,0,0.00
+40975,4,09,Razor Leaf,010912,Physical,25,55,0.95
+40976,4,09,Solar Beam,010912,Special,10,120,1.00
+40977,4,09,Poison Powder,01094,Status,35,0,0.75
+40978,4,09,Stun Spore,010912,Status,30,0,0.75
+40979,4,09,Sleep Powder,010912,Status,15,0,0.75
+40980,4,09,Petal Dance,010912,Special,10,120,1.00
+40981,4,09,String Shot,01097,Status,40,0,0.95
+40982,4,09,Dragon Rage,010916,Special,10,0,1.00
+40983,4,09,Fire Spin,010910,Special,15,35,0.85
+40984,4,09,Thunder Shock,010913,Special,30,40,1.00
+40985,4,09,Thunderbolt,010913,Special,15,90,1.00
+40986,4,09,Thunder Wave,010913,Status,20,0,0.90
+40987,4,09,Thunder,010913,Special,10,110,0.70
+40988,4,09,Rock Throw,01096,Physical,15,50,0.90
+40989,4,09,Earthquake,01095,Physical,10,100,1.00
+40990,4,09,Fissure,01095,Physical,5,0,0.30
+40991,4,09,Dig,01095,Physical,10,80,1.00
+40992,4,09,Toxic,01094,Status,10,0,0.90
+40993,4,09,Confusion,010914,Special,25,50,1.00
+40994,4,09,Psychic,010914,Special,10,90,1.00
+40995,4,09,Hypnosis,010914,Status,20,0,0.60
+40996,4,09,Meditate,010914,Status,40,0,0.00
+40997,4,09,Agility,010914,Status,30,0,0.00
+40998,4,09,Quick Attack,01091,Physical,30,40,1.00
+40999,4,09,Rage,01091,Physical,20,20,1.00
+409100,4,09,Teleport,010914,Status,20,0,0.00
+409101,4,09,Night Shade,01098,Special,15,0,1.00
+409102,4,09,Mimic,01091,Status,10,0,0.00
+409103,4,09,Screech,01091,Status,40,0,0.85
+409104,4,09,Double Team,01091,Status,15,0,0.00
+409105,4,09,Recover,01091,Status,5,0,0.00
+409106,4,09,Harden,01091,Status,30,0,0.00
+409107,4,09,Minimize,01091,Status,10,0,0.00
+409108,4,09,Smokescreen,01091,Status,20,0,1.00
+409109,4,09,Confuse Ray,01098,Status,10,0,1.00
+409110,4,09,Withdraw,010911,Status,40,0,0.00
+409111,4,09,Defense Curl,01091,Status,40,0,0.00
+409112,4,09,Barrier,010914,Status,20,0,0.00
+409113,4,09,Light Screen,010914,Status,30,0,0.00
+409114,4,09,Haze,010915,Status,30,0,0.00
+409115,4,09,Reflect,010914,Status,20,0,0.00
+409116,4,09,Focus Energy,01091,Status,30,0,0.00
+409117,4,09,Bide,01091,Physical,10,0,0.00
+409118,4,09,Metronome,01091,Status,10,0,0.00
+409119,4,09,Mirror Move,01093,Status,20,0,0.00
+409120,4,09,Self-Destruct,01091,Physical,5,200,1.00
+409121,4,09,Egg Bomb,01091,Physical,10,100,0.75
+409122,4,09,Lick,01098,Physical,30,30,1.00
+409123,4,09,Smog,01094,Special,20,30,0.70
+409124,4,09,Sludge,01094,Special,20,65,1.00
+409125,4,09,Bone Club,01095,Physical,20,65,0.85
+409126,4,09,Fire Blast,010910,Special,5,110,0.85
+409127,4,09,Waterfall,010911,Physical,15,80,1.00
+409128,4,09,Clamp,010911,Physical,15,35,0.85
+409129,4,09,Swift,01091,Special,20,60,0.00
+409130,4,09,Skull Bash,01091,Physical,10,130,1.00
+409131,4,09,Spike Cannon,01091,Physical,15,20,1.00
+409132,4,09,Constrict,01091,Physical,35,10,1.00
+409133,4,09,Amnesia,010914,Status,20,0,0.00
+409134,4,09,Kinesis,010914,Status,15,0,0.80
+409135,4,09,Soft-Boiled,01091,Status,5,0,0.00
+409136,4,09,High Jump Kick,01092,Physical,10,130,0.90
+409137,4,09,Glare,01091,Status,30,0,1.00
+409138,4,09,Dream Eater,010914,Special,15,100,1.00
+409139,4,09,Poison Gas,01094,Status,40,0,0.90
+409140,4,09,Barrage,01091,Physical,20,15,0.85
+409141,4,09,Leech Life,01097,Physical,10,80,1.00
+409142,4,09,Lovely Kiss,01091,Status,10,0,0.75
+409143,4,09,Sky Attack,01093,Physical,5,140,0.90
+409144,4,09,Transform,01091,Status,10,0,0.00
+409145,4,09,Bubble,010911,Special,30,40,1.00
+409146,4,09,Dizzy Punch,01091,Physical,10,70,1.00
+409147,4,09,Spore,010912,Status,15,0,1.00
+409148,4,09,Flash,01091,Status,20,0,1.00
+409149,4,09,Psywave,010914,Special,15,0,1.00
+409150,4,09,Splash,01091,Status,40,0,0.00
+409151,4,09,Acid Armor,01094,Status,20,0,0.00
+409152,4,09,Crabhammer,010911,Physical,10,100,0.90
+409153,4,09,Explosion,01091,Physical,5,250,1.00
+409154,4,09,Fury Swipes,01091,Physical,15,18,0.80
+409155,4,09,Bonemerang,01095,Physical,10,50,0.90
+409156,4,09,Rest,010914,Status,5,0,0.00
+409157,4,09,Rock Slide,01096,Physical,10,75,0.90
+409158,4,09,Hyper Fang,01091,Physical,15,80,0.90
+409159,4,09,Sharpen,01091,Status,30,0,0.00
+409160,4,09,Conversion,01091,Status,30,0,0.00
+409161,4,09,Tri Attack,01091,Special,10,80,1.00
+409162,4,09,Super Fang,01091,Physical,10,0,0.90
+409163,4,09,Slash,01091,Physical,20,70,1.00
+409164,4,09,Substitute,01091,Status,10,0,0.00
+409165,4,09,Struggle,01091,Physical,1,50,0.00
+409166,4,09,Sketch,01091,Status,1,0,0.00
+409167,4,09,Triple Kick,01092,Physical,10,10,0.90
+409168,4,09,Thief,010917,Physical,25,60,1.00
+409169,4,09,Spider Web,01097,Status,10,0,0.00
+409170,4,09,Mind Reader,01091,Status,5,0,0.00
+409171,4,09,Nightmare,01098,Status,15,0,1.00
+409172,4,09,Flame Wheel,010910,Physical,25,60,1.00
+409173,4,09,Snore,01091,Special,15,50,1.00
+409174,4,09,Curse,01098,Status,10,0,0.00
+409175,4,09,Flail,01091,Physical,15,0,1.00
+409176,4,09,Conversion 2,01091,Status,30,0,0.00
+409177,4,09,Aeroblast,01093,Special,5,100,0.95
+409178,4,09,Cotton Spore,010912,Status,40,0,1.00
+409179,4,09,Reversal,01092,Physical,15,0,1.00
+409180,4,09,Spite,01098,Status,10,0,1.00
+409181,4,09,Powder Snow,010915,Special,25,40,1.00
+409182,4,09,Protect,01091,Status,10,0,0.00
+409183,4,09,Mach Punch,01092,Physical,30,40,1.00
+409184,4,09,Scary Face,01091,Status,10,0,1.00
+409185,4,09,Feint Attack,010917,Physical,20,60,0.00
+409186,4,09,Sweet Kiss,010918,Status,10,0,0.75
+409187,4,09,Belly Drum,01091,Status,10,0,0.00
+409188,4,09,Sludge Bomb,01094,Special,10,90,1.00
+409189,4,09,Mud-Slap,01095,Special,10,20,1.00
+409190,4,09,Octazooka,010911,Special,10,65,0.85
+409191,4,09,Spikes,01095,Status,20,0,0.00
+409192,4,09,Zap Cannon,010913,Special,5,120,0.50
+409193,4,09,Foresight,01091,Status,40,0,0.00
+409194,4,09,Destiny Bond,01098,Status,5,0,0.00
+409195,4,09,Perish Song,01091,Status,5,0,0.00
+409196,4,09,Icy Wind,010915,Special,15,55,0.95
+409197,4,09,Detect,01092,Status,5,0,0.00
+409198,4,09,Bone Rush,01095,Physical,10,25,0.90
+409199,4,09,Lock-On,01091,Status,5,0,0.00
+409200,4,09,Outrage,010916,Physical,10,120,1.00
+409201,4,09,Sandstorm,01096,Status,10,0,0.00
+409202,4,09,Giga Drain,010912,Special,10,75,1.00
+409203,4,09,Endure,01091,Status,10,0,0.00
+409204,4,09,Charm,010918,Status,20,0,1.00
+409205,4,09,Rollout,01096,Physical,20,30,0.90
+409206,4,09,False Swipe,01091,Physical,40,40,1.00
+409207,4,09,Swagger,01091,Status,15,0,0.85
+409208,4,09,Milk Drink,01091,Status,5,0,0.00
+409209,4,09,Spark,010913,Physical,20,65,1.00
+409210,4,09,Fury Cutter,01097,Physical,20,40,0.95
+409211,4,09,Steel Wing,01099,Physical,25,70,0.90
+409212,4,09,Mean Look,01091,Status,5,0,0.00
+409213,4,09,Attract,01091,Status,15,0,1.00
+409214,4,09,Sleep Talk,01091,Status,10,0,0.00
+409215,4,09,Heal Bell,01091,Status,5,0,0.00
+409216,4,09,Return,01091,Physical,20,0,1.00
+409217,4,09,Present,01091,Physical,15,0,0.90
+409218,4,09,Frustration,01091,Physical,20,0,1.00
+409219,4,09,Safeguard,01091,Status,25,0,0.00
+409220,4,09,Pain Split,01091,Status,20,0,0.00
+409221,4,09,Sacred Fire,010910,Physical,5,100,0.95
+409222,4,09,Magnitude,01095,Physical,30,0,1.00
+409223,4,09,Dynamic Punch,01092,Physical,5,100,0.50
+409224,4,09,Megahorn,01097,Physical,10,120,0.85
+409225,4,09,Dragon Breath,010916,Special,20,60,1.00
+409226,4,09,Baton Pass,01091,Status,40,0,0.00
+409227,4,09,Encore,01091,Status,5,0,1.00
+409228,4,09,Pursuit,010917,Physical,20,40,1.00
+409229,4,09,Rapid Spin,01091,Physical,40,50,1.00
+409230,4,09,Sweet Scent,01091,Status,20,0,1.00
+409231,4,09,Iron Tail,01099,Physical,15,100,0.75
+409232,4,09,Metal Claw,01099,Physical,35,50,0.95
+409233,4,09,Vital Throw,01092,Physical,10,70,0.00
+409234,4,09,Morning Sun,01091,Status,5,0,0.00
+409235,4,09,Synthesis,010912,Status,5,0,0.00
+409236,4,09,Moonlight,010918,Status,5,0,0.00
+409237,4,09,Hidden Power,01091,Special,15,60,1.00
+409238,4,09,Cross Chop,01092,Physical,5,100,0.80
+409239,4,09,Twister,010916,Special,20,40,1.00
+409240,4,09,Rain Dance,010911,Status,5,0,0.00
+409241,4,09,Sunny Day,010910,Status,5,0,0.00
+409242,4,09,Crunch,010917,Physical,15,80,1.00
+409243,4,09,Mirror Coat,010914,Special,20,0,1.00
+409244,4,09,Psych Up,01091,Status,10,0,0.00
+409245,4,09,Extreme Speed,01091,Physical,5,80,1.00
+409246,4,09,Ancient Power,01096,Special,5,60,1.00
+409247,4,09,Shadow Ball,01098,Special,15,80,1.00
+409248,4,09,Future Sight,010914,Special,10,120,1.00
+409249,4,09,Rock Smash,01092,Physical,15,40,1.00
+409250,4,09,Whirlpool,010911,Special,15,35,0.85
+409251,4,09,Beat Up,010917,Physical,10,0,1.00
+409252,4,09,Fake Out,01091,Physical,10,40,1.00
+409253,4,09,Uproar,01091,Special,10,90,1.00
+409254,4,09,Stockpile,01091,Status,20,0,0.00
+409255,4,09,Spit Up,01091,Special,10,0,1.00
+409256,4,09,Swallow,01091,Status,10,0,0.00
+409257,4,09,Heat Wave,010910,Special,10,95,0.90
+409258,4,09,Hail,010915,Status,10,0,0.00
+409259,4,09,Torment,010917,Status,15,0,1.00
+409260,4,09,Flatter,010917,Status,15,0,1.00
+409261,4,09,Will-O-Wisp,010910,Status,15,0,0.85
+409262,4,09,Memento,010917,Status,10,0,1.00
+409263,4,09,Facade,01091,Physical,20,70,1.00
+409264,4,09,Focus Punch,01092,Physical,20,150,1.00
+409265,4,09,Smelling Salts,01091,Physical,10,70,1.00
+409266,4,09,Follow Me,01091,Status,20,0,0.00
+409267,4,09,Nature Power,01091,Status,20,0,0.00
+409268,4,09,Charge,010913,Status,20,0,0.00
+409269,4,09,Taunt,010917,Status,20,0,1.00
+409270,4,09,Helping Hand,01091,Status,20,0,0.00
+409271,4,09,Trick,010914,Status,10,0,1.00
+409272,4,09,Role Play,010914,Status,10,0,0.00
+409273,4,09,Wish,01091,Status,10,0,0.00
+409274,4,09,Assist,01091,Status,20,0,0.00
+409275,4,09,Ingrain,010912,Status,20,0,0.00
+409276,4,09,Superpower,01092,Physical,5,120,1.00
+409277,4,09,Magic Coat,010914,Status,15,0,0.00
+409278,4,09,Recycle,01091,Status,10,0,0.00
+409279,4,09,Revenge,01092,Physical,10,60,1.00
+409280,4,09,Brick Break,01092,Physical,15,75,1.00
+409281,4,09,Yawn,01091,Status,10,0,0.00
+409282,4,09,Knock Off,010917,Physical,20,65,1.00
+409283,4,09,Endeavor,01091,Physical,5,0,1.00
+409284,4,09,Eruption,010910,Special,5,150,1.00
+409285,4,09,Skill Swap,010914,Status,10,0,0.00
+409286,4,09,Imprison,010914,Status,10,0,0.00
+409287,4,09,Refresh,01091,Status,20,0,0.00
+409288,4,09,Grudge,01098,Status,5,0,0.00
+409289,4,09,Snatch,010917,Status,10,0,0.00
+409290,4,09,Secret Power,01091,Physical,20,70,1.00
+409291,4,09,Dive,010911,Physical,10,80,1.00
+409292,4,09,Arm Thrust,01092,Physical,20,15,1.00
+409293,4,09,Camouflage,01091,Status,20,0,0.00
+409294,4,09,Tail Glow,01097,Status,20,0,0.00
+409295,4,09,Luster Purge,010914,Special,5,95,1.00
+409296,4,09,Mist Ball,010914,Special,5,95,1.00
+409297,4,09,Feather Dance,01093,Status,15,0,1.00
+409298,4,09,Teeter Dance,01091,Status,20,0,1.00
+409299,4,09,Blaze Kick,010910,Physical,10,85,0.90
+409300,4,09,Mud Sport,01095,Status,15,0,0.00
+409301,4,09,Ice Ball,010915,Physical,20,30,0.90
+409302,4,09,Needle Arm,010912,Physical,15,60,1.00
+409303,4,09,Slack Off,01091,Status,5,0,0.00
+409304,4,09,Hyper Voice,01091,Special,10,90,1.00
+409305,4,09,Poison Fang,01094,Physical,15,50,1.00
+409306,4,09,Crush Claw,01091,Physical,10,75,0.95
+409307,4,09,Blast Burn,010910,Special,5,150,0.90
+409308,4,09,Hydro Cannon,010911,Special,5,150,0.90
+409309,4,09,Meteor Mash,01099,Physical,10,90,0.90
+409310,4,09,Astonish,01098,Physical,15,30,1.00
+409311,4,09,Weather Ball,01091,Special,10,50,1.00
+409312,4,09,Aromatherapy,010912,Status,5,0,0.00
+409313,4,09,Fake Tears,010917,Status,20,0,1.00
+409314,4,09,Air Cutter,01093,Special,25,60,0.95
+409315,4,09,Overheat,010910,Special,5,130,0.90
+409316,4,09,Odor Sleuth,01091,Status,40,0,0.00
+409317,4,09,Rock Tomb,01096,Physical,15,60,0.95
+409318,4,09,Silver Wind,01097,Special,5,60,1.00
+409319,4,09,Metal Sound,01099,Status,40,0,0.85
+409320,4,09,Grass Whistle,010912,Status,15,0,0.55
+409321,4,09,Tickle,01091,Status,20,0,1.00
+409322,4,09,Cosmic Power,010914,Status,20,0,0.00
+409323,4,09,Water Spout,010911,Special,5,150,1.00
+409324,4,09,Signal Beam,01097,Special,15,75,1.00
+409325,4,09,Shadow Punch,01098,Physical,20,60,0.00
+409326,4,09,Extrasensory,010914,Special,20,80,1.00
+409327,4,09,Sky Uppercut,01092,Physical,15,85,0.90
+409328,4,09,Sand Tomb,01095,Physical,15,35,0.85
+409329,4,09,Sheer Cold,010915,Special,5,0,0.30
+409330,4,09,Muddy Water,010911,Special,10,90,0.85
+409331,4,09,Bullet Seed,010912,Physical,30,25,1.00
+409332,4,09,Aerial Ace,01093,Physical,20,60,0.00
+409333,4,09,Icicle Spear,010915,Physical,30,25,1.00
+409334,4,09,Iron Defense,01099,Status,15,0,0.00
+409335,4,09,Block,01091,Status,5,0,0.00
+409336,4,09,Howl,01091,Status,40,0,0.00
+409337,4,09,Dragon Claw,010916,Physical,15,80,1.00
+409338,4,09,Frenzy Plant,010912,Special,5,150,0.90
+409339,4,09,Bulk Up,01092,Status,20,0,0.00
+409340,4,09,Bounce,01093,Physical,5,85,0.85
+409341,4,09,Mud Shot,01095,Special,15,55,0.95
+409342,4,09,Poison Tail,01094,Physical,25,50,1.00
+409343,4,09,Covet,01091,Physical,25,60,1.00
+409344,4,09,Volt Tackle,010913,Physical,15,120,1.00
+409345,4,09,Magical Leaf,010912,Special,20,60,0.00
+409346,4,09,Water Sport,010911,Status,15,0,0.00
+409347,4,09,Calm Mind,010914,Status,20,0,0.00
+409348,4,09,Leaf Blade,010912,Physical,15,90,1.00
+409349,4,09,Dragon Dance,010916,Status,20,0,0.00
+409350,4,09,Rock Blast,01096,Physical,10,25,0.90
+409351,4,09,Shock Wave,010913,Special,20,60,0.00
+409352,4,09,Water Pulse,010911,Special,20,60,1.00
+409353,4,09,Doom Desire,01099,Special,5,140,1.00
+409354,4,09,Psycho Boost,010914,Special,5,140,0.90
+409355,4,09,Roost,01093,Status,5,0,0.00
+409356,4,09,Gravity,010914,Status,5,0,0.00
+409357,4,09,Miracle Eye,010914,Status,40,0,0.00
+409358,4,09,Wake-Up Slap,01092,Physical,10,70,1.00
+409359,4,09,Hammer Arm,01092,Physical,10,100,0.90
+409360,4,09,Gyro Ball,01099,Physical,5,0,1.00
+409361,4,09,Healing Wish,010914,Status,10,0,0.00
+409362,4,09,Brine,010911,Special,10,65,1.00
+409363,4,09,Natural Gift,01091,Physical,15,0,1.00
+409364,4,09,Feint,01091,Physical,10,30,1.00
+409365,4,09,Pluck,01093,Physical,20,60,1.00
+409366,4,09,Tailwind,01093,Status,15,0,0.00
+409367,4,09,Acupressure,01091,Status,30,0,0.00
+409368,4,09,Metal Burst,01099,Physical,10,0,1.00
+409369,4,09,U-turn,01097,Physical,20,70,1.00
+409370,4,09,Close Combat,01092,Physical,5,120,1.00
+409371,4,09,Payback,010917,Physical,10,50,1.00
+409372,4,09,Assurance,010917,Physical,10,60,1.00
+409373,4,09,Embargo,010917,Status,15,0,1.00
+409374,4,09,Fling,010917,Physical,10,0,1.00
+409375,4,09,Psycho Shift,010914,Status,10,0,1.00
+409376,4,09,Trump Card,01091,Special,5,0,0.00
+409377,4,09,Heal Block,010914,Status,15,0,1.00
+409378,4,09,Wring Out,01091,Special,5,0,1.00
+409379,4,09,Power Trick,010914,Status,10,0,0.00
+409380,4,09,Gastro Acid,01094,Status,10,0,1.00
+409381,4,09,Lucky Chant,01091,Status,30,0,0.00
+409382,4,09,Me First,01091,Status,20,0,0.00
+409383,4,09,Copycat,01091,Status,20,0,0.00
+409384,4,09,Power Swap,010914,Status,10,0,0.00
+409385,4,09,Guard Swap,010914,Status,10,0,0.00
+409386,4,09,Punishment,010917,Physical,5,0,1.00
+409387,4,09,Last Resort,01091,Physical,5,140,1.00
+409388,4,09,Worry Seed,010912,Status,10,0,1.00
+409389,4,09,Sucker Punch,010917,Physical,5,70,1.00
+409390,4,09,Toxic Spikes,01094,Status,20,0,0.00
+409391,4,09,Heart Swap,010914,Status,10,0,0.00
+409392,4,09,Aqua Ring,010911,Status,20,0,0.00
+409393,4,09,Magnet Rise,010913,Status,10,0,0.00
+409394,4,09,Flare Blitz,010910,Physical,15,120,1.00
+409395,4,09,Force Palm,01092,Physical,10,60,1.00
+409396,4,09,Aura Sphere,01092,Special,20,80,0.00
+409397,4,09,Rock Polish,01096,Status,20,0,0.00
+409398,4,09,Poison Jab,01094,Physical,20,80,1.00
+409399,4,09,Dark Pulse,010917,Special,15,80,1.00
+409400,4,09,Night Slash,010917,Physical,15,70,1.00
+409401,4,09,Aqua Tail,010911,Physical,10,90,0.90
+409402,4,09,Seed Bomb,010912,Physical,15,80,1.00
+409403,4,09,Air Slash,01093,Special,15,75,0.95
+409404,4,09,X-Scissor,01097,Physical,15,80,1.00
+409405,4,09,Bug Buzz,01097,Special,10,90,1.00
+409406,4,09,Dragon Pulse,010916,Special,10,85,1.00
+409407,4,09,Dragon Rush,010916,Physical,10,100,0.75
+409408,4,09,Power Gem,01096,Special,20,80,1.00
+409409,4,09,Drain Punch,01092,Physical,10,75,1.00
+409410,4,09,Vacuum Wave,01092,Special,30,40,1.00
+409411,4,09,Focus Blast,01092,Special,5,120,0.70
+409412,4,09,Energy Ball,010912,Special,10,90,1.00
+409413,4,09,Brave Bird,01093,Physical,15,120,1.00
+409414,4,09,Earth Power,01095,Special,10,90,1.00
+409415,4,09,Switcheroo,010917,Status,10,0,1.00
+409416,4,09,Giga Impact,01091,Physical,5,150,0.90
+409417,4,09,Nasty Plot,010917,Status,20,0,0.00
+409418,4,09,Bullet Punch,01099,Physical,30,40,1.00
+409419,4,09,Avalanche,010915,Physical,10,60,1.00
+409420,4,09,Ice Shard,010915,Physical,30,40,1.00
+409421,4,09,Shadow Claw,01098,Physical,15,70,1.00
+409422,4,09,Thunder Fang,010913,Physical,15,65,0.95
+409423,4,09,Ice Fang,010915,Physical,15,65,0.95
+409424,4,09,Fire Fang,010910,Physical,15,65,0.95
+409425,4,09,Shadow Sneak,01098,Physical,30,40,1.00
+409426,4,09,Mud Bomb,01095,Special,10,65,0.85
+409427,4,09,Psycho Cut,010914,Physical,20,70,1.00
+409428,4,09,Zen Headbutt,010914,Physical,15,80,0.90
+409429,4,09,Mirror Shot,01099,Special,10,65,0.85
+409430,4,09,Flash Cannon,01099,Special,10,80,1.00
+409431,4,09,Rock Climb,01091,Physical,20,90,0.85
+409432,4,09,Defog,01093,Status,15,0,0.00
+409433,4,09,Trick Room,010914,Status,5,0,0.00
+409434,4,09,Draco Meteor,010916,Special,5,130,0.90
+409435,4,09,Discharge,010913,Special,15,80,1.00
+409436,4,09,Lava Plume,010910,Special,15,80,1.00
+409437,4,09,Leaf Storm,010912,Special,5,130,0.90
+409438,4,09,Power Whip,010912,Physical,10,120,0.85
+409439,4,09,Rock Wrecker,01096,Physical,5,150,0.90
+409440,4,09,Cross Poison,01094,Physical,20,70,1.00
+409441,4,09,Gunk Shot,01094,Physical,5,120,0.80
+409442,4,09,Iron Head,01099,Physical,15,80,1.00
+409443,4,09,Magnet Bomb,01099,Physical,20,60,0.00
+409444,4,09,Stone Edge,01096,Physical,5,100,0.80
+409445,4,09,Captivate,01091,Status,20,0,1.00
+409446,4,09,Stealth Rock,01096,Status,20,0,0.00
+409447,4,09,Grass Knot,010912,Special,20,0,1.00
+409448,4,09,Chatter,01093,Special,20,65,1.00
+409449,4,09,Judgment,01091,Special,10,100,1.00
+409450,4,09,Bug Bite,01097,Physical,20,60,1.00
+409451,4,09,Charge Beam,010913,Special,10,50,0.90
+409452,4,09,Wood Hammer,010912,Physical,15,120,1.00
+409453,4,09,Aqua Jet,010911,Physical,20,40,1.00
+409454,4,09,Attack Order,01097,Physical,15,90,1.00
+409455,4,09,Defend Order,01097,Status,10,0,0.00
+409456,4,09,Heal Order,01097,Status,10,0,0.00
+409457,4,09,Head Smash,01096,Physical,5,150,0.80
+409458,4,09,Double Hit,01091,Physical,10,35,0.90
+409459,4,09,Roar of Time,010916,Special,5,150,0.90
+409460,4,09,Spacial Rend,010916,Special,5,100,0.95
+409461,4,09,Lunar Dance,010914,Status,10,0,0.00
+409462,4,09,Crush Grip,01091,Physical,5,0,1.00
+409463,4,09,Magma Storm,010910,Special,5,100,0.75
+409464,4,09,Dark Void,010917,Status,10,0,0.50
+409465,4,09,Seed Flare,010912,Special,5,120,0.85
+409466,4,09,Ominous Wind,01098,Special,5,60,1.00
+409467,4,09,Shadow Force,01098,Physical,5,120,1.00
+409468,4,09,Hone Claws,010917,Status,15,0,0.00
+409469,4,09,Wide Guard,01096,Status,10,0,0.00
+409470,4,09,Guard Split,010914,Status,10,0,0.00
+409471,4,09,Power Split,010914,Status,10,0,0.00
+409472,4,09,Wonder Room,010914,Status,10,0,0.00
+409473,4,09,Psyshock,010914,Special,10,80,1.00
+409474,4,09,Venoshock,01094,Special,10,65,1.00
+409475,4,09,Autotomize,01099,Status,15,0,0.00
+409476,4,09,Rage Powder,01097,Status,20,0,0.00
+409477,4,09,Telekinesis,010914,Status,15,0,0.00
+409478,4,09,Magic Room,010914,Status,10,0,0.00
+409479,4,09,Smack Down,01096,Physical,15,50,1.00
+409480,4,09,Storm Throw,01092,Physical,10,60,1.00
+409481,4,09,Flame Burst,010910,Special,15,70,1.00
+409482,4,09,Sludge Wave,01094,Special,10,95,1.00
+409483,4,09,Quiver Dance,01097,Status,20,0,0.00
+409484,4,09,Heavy Slam,01099,Physical,10,0,1.00
+409485,4,09,Synchronoise,010914,Special,10,120,1.00
+409486,4,09,Electro Ball,010913,Special,10,0,1.00
+409487,4,09,Soak,010911,Status,20,0,1.00
+409488,4,09,Flame Charge,010910,Physical,20,50,1.00
+409489,4,09,Coil,01094,Status,20,0,0.00
+409490,4,09,Low Sweep,01092,Physical,20,65,1.00
+409491,4,09,Acid Spray,01094,Special,20,40,1.00
+409492,4,09,Foul Play,010917,Physical,15,95,1.00
+409493,4,09,Simple Beam,01091,Status,15,0,1.00
+409494,4,09,Entrainment,01091,Status,15,0,1.00
+409495,4,09,After You,01091,Status,15,0,0.00
+409496,4,09,Round,01091,Special,15,60,1.00
+409497,4,09,Echoed Voice,01091,Special,15,40,1.00
+409498,4,09,Chip Away,01091,Physical,20,70,1.00
+409499,4,09,Clear Smog,01094,Special,15,50,0.00
+409500,4,09,Stored Power,010914,Special,10,20,1.00
+409501,4,09,Quick Guard,01092,Status,15,0,0.00
+409502,4,09,Ally Switch,010914,Status,15,0,0.00
+409503,4,09,Scald,010911,Special,15,80,1.00
+409504,4,09,Shell Smash,01091,Status,15,0,0.00
+409505,4,09,Heal Pulse,010914,Status,10,0,0.00
+409506,4,09,Hex,01098,Special,10,65,1.00
+409507,4,09,Sky Drop,01093,Physical,10,60,1.00
+409508,4,09,Shift Gear,01099,Status,10,0,0.00
+409509,4,09,Circle Throw,01092,Physical,10,60,0.90
+409510,4,09,Incinerate,010910,Special,15,60,1.00
+409511,4,09,Quash,010917,Status,15,0,1.00
+409512,4,09,Acrobatics,01093,Physical,15,55,1.00
+409513,4,09,Reflect Type,01091,Status,15,0,0.00
+409514,4,09,Retaliate,01091,Physical,5,70,1.00
+409515,4,09,Final Gambit,01092,Special,5,0,1.00
+409516,4,09,Bestow,01091,Status,15,0,0.00
+409517,4,09,Inferno,010910,Special,5,100,0.50
+409518,4,09,Water Pledge,010911,Special,10,80,1.00
+409519,4,09,Fire Pledge,010910,Special,10,80,1.00
+409520,4,09,Grass Pledge,010912,Special,10,80,1.00
+409521,4,09,Volt Switch,010913,Special,20,70,1.00
+409522,4,09,Struggle Bug,01097,Special,20,50,1.00
+409523,4,09,Bulldoze,01095,Physical,20,60,1.00
+409524,4,09,Frost Breath,010915,Special,10,60,0.90
+409525,4,09,Dragon Tail,010916,Physical,10,60,0.90
+409526,4,09,Work Up,01091,Status,30,0,0.00
+409527,4,09,Electroweb,010913,Special,15,55,0.95
+409528,4,09,Wild Charge,010913,Physical,15,90,1.00
+409529,4,09,Drill Run,01095,Physical,10,80,0.95
+409530,4,09,Dual Chop,010916,Physical,15,40,0.90
+409531,4,09,Heart Stamp,010914,Physical,25,60,1.00
+409532,4,09,Horn Leech,010912,Physical,10,75,1.00
+409533,4,09,Sacred Sword,01092,Physical,15,90,1.00
+409534,4,09,Razor Shell,010911,Physical,10,75,0.95
+409535,4,09,Heat Crash,010910,Physical,10,0,1.00
+409536,4,09,Leaf Tornado,010912,Special,10,65,0.90
+409537,4,09,Steamroller,01097,Physical,20,65,1.00
+409538,4,09,Cotton Guard,010912,Status,10,0,0.00
+409539,4,09,Night Daze,010917,Special,10,85,0.95
+409540,4,09,Psystrike,010914,Special,10,100,1.00
+409541,4,09,Tail Slap,01091,Physical,10,25,0.85
+409542,4,09,Hurricane,01093,Special,10,110,0.70
+409543,4,09,Head Charge,01091,Physical,15,120,1.00
+409544,4,09,Gear Grind,01099,Physical,15,50,0.85
+409545,4,09,Searing Shot,010910,Special,5,100,1.00
+409546,4,09,Techno Blast,01091,Special,5,120,1.00
+409547,4,09,Relic Song,01091,Special,10,75,1.00
+409548,4,09,Secret Sword,01092,Special,10,85,1.00
+409549,4,09,Glaciate,010915,Special,10,65,0.95
+409550,4,09,Bolt Strike,010913,Physical,5,130,0.85
+409551,4,09,Blue Flare,010910,Special,5,130,0.85
+409552,4,09,Fiery Dance,010910,Special,10,80,1.00
+409553,4,09,Freeze Shock,010915,Physical,5,140,0.90
+409554,4,09,Ice Burn,010915,Special,5,140,0.90
+409555,4,09,Snarl,010917,Special,15,55,0.95
+409556,4,09,Icicle Crash,010915,Physical,10,85,0.90
+409557,4,09,V-create,010910,Physical,5,180,0.95
+409558,4,09,Fusion Flare,010910,Special,5,100,1.00
+409559,4,09,Fusion Bolt,010913,Physical,5,100,1.00
+409560,4,09,Flying Press,01092,Physical,10,100,0.95
+409561,4,09,Mat Block,01092,Status,10,0,0.00
+409562,4,09,Belch,01094,Special,10,120,0.90
+409563,4,09,Rototiller,01095,Status,10,0,0.00
+409564,4,09,Sticky Web,01097,Status,20,0,0.00
+409565,4,09,Fell Stinger,01097,Physical,25,50,1.00
+409566,4,09,Phantom Force,01098,Physical,10,90,1.00
+409567,4,09,Trick-or-Treat,01098,Status,20,0,1.00
+409568,4,09,Noble Roar,01091,Status,30,0,1.00
+409569,4,09,Ion Deluge,010913,Status,25,0,0.00
+409570,4,09,Parabolic Charge,010913,Special,20,65,1.00
+409571,4,09,Forest's Curse,010912,Status,20,0,1.00
+409572,4,09,Petal Blizzard,010912,Physical,15,90,1.00
+409573,4,09,Freeze-Dry,010915,Special,20,70,1.00
+409574,4,09,Disarming Voice,010918,Special,15,40,0.00
+409575,4,09,Parting Shot,010917,Status,20,0,1.00
+409576,4,09,Topsy-Turvy,010917,Status,20,0,0.00
+409577,4,09,Draining Kiss,010918,Special,10,50,1.00
+409578,4,09,Crafty Shield,010918,Status,10,0,0.00
+409579,4,09,Flower Shield,010918,Status,10,0,0.00
+409580,4,09,Grassy Terrain,010912,Status,10,0,0.00
+409581,4,09,Misty Terrain,010918,Status,10,0,0.00
+409582,4,09,Electrify,010913,Status,20,0,0.00
+409583,4,09,Play Rough,010918,Physical,10,90,0.90
+409584,4,09,Fairy Wind,010918,Special,30,40,1.00
+409585,4,09,Moonblast,010918,Special,15,95,1.00
+409586,4,09,Boomburst,01091,Special,10,140,1.00
+409587,4,09,Fairy Lock,010918,Status,10,0,0.00
+409588,4,09,King's Shield,01099,Status,10,0,0.00
+409589,4,09,Play Nice,01091,Status,20,0,0.00
+409590,4,09,Confide,01091,Status,20,0,0.00
+409591,4,09,Diamond Storm,01096,Physical,5,100,0.95
+409592,4,09,Steam Eruption,010911,Special,5,110,0.95
+409593,4,09,Hyperspace Hole,010914,Special,5,80,0.00
+409594,4,09,Water Shuriken,010911,Special,20,15,1.00
+409595,4,09,Mystical Fire,010910,Special,10,75,1.00
+409596,4,09,Spiky Shield,010912,Status,10,0,0.00
+409597,4,09,Aromatic Mist,010918,Status,20,0,0.00
+409598,4,09,Eerie Impulse,010913,Status,15,0,1.00
+409599,4,09,Venom Drench,01094,Status,20,0,1.00
+409600,4,09,Powder,01097,Status,20,0,1.00
+409601,4,09,Geomancy,010918,Status,10,0,0.00
+409602,4,09,Magnetic Flux,010913,Status,20,0,0.00
+409603,4,09,Happy Hour,01091,Status,30,0,0.00
+409604,4,09,Electric Terrain,010913,Status,10,0,0.00
+409605,4,09,Dazzling Gleam,010918,Special,10,80,1.00
+409606,4,09,Celebrate,01091,Status,40,0,0.00
+409607,4,09,Hold Hands,01091,Status,40,0,0.00
+409608,4,09,Baby-Doll Eyes,010918,Status,30,0,1.00
+409609,4,09,Nuzzle,010913,Physical,20,20,1.00
+409610,4,09,Hold Back,01091,Physical,40,40,1.00
+409611,4,09,Infestation,01097,Special,20,20,1.00
+409612,4,09,Power-Up Punch,01092,Physical,20,40,1.00
+409613,4,09,Oblivion Wing,01093,Special,10,80,1.00
+409614,4,09,Thousand Arrows,01095,Physical,10,90,1.00
+409615,4,09,Thousand Waves,01095,Physical,10,90,1.00
+409616,4,09,Land's Wrath,01095,Physical,10,90,1.00
+409617,4,09,Light of Ruin,010918,Special,5,140,0.90
+409618,4,09,Origin Pulse,010911,Special,10,110,0.85
+409619,4,09,Precipice Blades,01095,Physical,10,120,0.85
+409620,4,09,Dragon Ascent,01093,Physical,5,120,1.00
+409621,4,09,Hyperspace Fury,010917,Physical,5,100,0.00
+409622,4,09,Breakneck Blitz,01091,???,1,0,0.00
+409623,4,09,All-Out Pummeling,01092,???,1,0,0.00
+409624,4,09,Supersonic Skystrike,01093,???,1,0,0.00
+409625,4,09,Acid Downpour,01094,???,1,0,0.00
+409626,4,09,Tectonic Rage,01095,???,1,0,0.00
+409627,4,09,Continental Crush,01096,???,1,0,0.00
+409628,4,09,Savage Spin-Out,01097,???,1,0,0.00
+409629,4,09,Never-Ending Nightmare,01098,???,1,0,0.00
+409630,4,09,Corkscrew Crash,01099,???,1,0,0.00
+409631,4,09,Inferno Overdrive,010910,???,1,0,0.00
+409632,4,09,Hydro Vortex,010911,???,1,0,0.00
+409633,4,09,Bloom Doom,010912,???,1,0,0.00
+409634,4,09,Gigavolt Havoc,010913,???,1,0,0.00
+409635,4,09,Shattered Psyche,010914,???,1,0,0.00
+409636,4,09,Subzero Slammer,010915,???,1,0,0.00
+409637,4,09,Devastating Drake,010916,???,1,0,0.00
+409638,4,09,Black Hole Eclipse,010917,???,1,0,0.00
+409639,4,09,Twinkle Tackle,010918,???,1,0,0.00
+409640,4,09,Catastropika,010913,Physical,1,210,0.00
+409641,4,09,Shore Up,01095,Status,5,0,0.00
+409642,4,09,First Impression,01097,Physical,10,90,1.00
+409643,4,09,Baneful Bunker,01094,Status,10,0,0.00
+409644,4,09,Spirit Shackle,01098,Physical,10,80,1.00
+409645,4,09,Darkest Lariat,010917,Physical,10,85,1.00
+409646,4,09,Sparkling Aria,010911,Special,10,90,1.00
+409647,4,09,Ice Hammer,010915,Physical,10,100,0.90
+409648,4,09,Floral Healing,010918,Status,10,0,0.00
+409649,4,09,High Horsepower,01095,Physical,10,95,0.95
+409650,4,09,Strength Sap,010912,Status,10,0,1.00
+409651,4,09,Solar Blade,010912,Physical,10,125,1.00
+409652,4,09,Leafage,010912,Physical,40,40,1.00
+409653,4,09,Spotlight,01091,Status,15,0,0.00
+409654,4,09,Toxic Thread,01094,Status,20,0,1.00
+409655,4,09,Laser Focus,01091,Status,30,0,0.00
+409656,4,09,Gear Up,01099,Status,20,0,0.00
+409657,4,09,Throat Chop,010917,Physical,15,80,1.00
+409658,4,09,Pollen Puff,01097,Special,15,90,1.00
+409659,4,09,Anchor Shot,01099,Physical,20,80,1.00
+409660,4,09,Psychic Terrain,010914,Status,10,0,0.00
+409661,4,09,Lunge,01097,Physical,15,80,1.00
+409662,4,09,Fire Lash,010910,Physical,15,80,1.00
+409663,4,09,Power Trip,010917,Physical,10,20,1.00
+409664,4,09,Burn Up,010910,Special,5,130,1.00
+409665,4,09,Speed Swap,010914,Status,10,0,0.00
+409666,4,09,Smart Strike,01099,Physical,10,70,0.00
+409667,4,09,Purify,01094,Status,20,0,0.00
+409668,4,09,Revelation Dance,01091,Special,15,90,1.00
+409669,4,09,Core Enforcer,010916,Special,10,100,1.00
+409670,4,09,Trop Kick,010912,Physical,15,70,1.00
+409671,4,09,Instruct,010914,Status,15,0,0.00
+409672,4,09,Beak Blast,01093,Physical,15,100,1.00
+409673,4,09,Clanging Scales,010916,Special,5,110,1.00
+409674,4,09,Dragon Hammer,010916,Physical,15,90,1.00
+409675,4,09,Brutal Swing,010917,Physical,20,60,1.00
+409676,4,09,Aurora Veil,010915,Status,20,0,0.00
+409677,4,09,Sinister Arrow Raid,01098,Physical,1,180,0.00
+409678,4,09,Malicious Moonsault,010917,Physical,1,180,0.00
+409679,4,09,Oceanic Operetta,010911,Special,1,195,0.00
+409680,4,09,Guardian of Alola,010918,Special,1,0,0.00
+409681,4,09,Soul-Stealing 7-Star Strike,01098,Physical,1,195,0.00
+409682,4,09,Stoked Sparksurfer,010913,Special,1,175,0.00
+409683,4,09,Pulverizing Pancake,01091,Physical,1,210,0.00
+409684,4,09,Extreme Evoboost,01091,Status,1,0,0.00
+409685,4,09,Genesis Supernova,010914,Special,1,185,0.00
+409686,4,09,Shell Trap,010910,Special,5,150,1.00
+409687,4,09,Fleur Cannon,010918,Special,5,130,0.90
+409688,4,09,Psychic Fangs,010914,Physical,10,85,1.00
+409689,4,09,Stomping Tantrum,01095,Physical,10,75,1.00
+409690,4,09,Shadow Bone,01098,Physical,10,85,1.00
+409691,4,09,Accelerock,01096,Physical,20,40,1.00
+409692,4,09,Liquidation,010911,Physical,10,85,1.00
+409693,4,09,Prismatic Laser,010914,Special,10,160,1.00
+409694,4,09,Spectral Thief,01098,Physical,10,90,1.00
+409695,4,09,Sunsteel Strike,01099,Physical,5,100,1.00
+409696,4,09,Moongeist Beam,01098,Special,5,100,1.00
+409697,4,09,Tearful Look,01091,Status,20,0,0.00
+409698,4,09,Zing Zap,010913,Physical,10,80,1.00
+409699,4,09,Nature's Madness,010918,Special,10,0,0.90
+409700,4,09,Multi-Attack,01091,Physical,10,120,1.00
+409701,4,09,"10,000,000 Volt Thunderbolt",010913,Special,1,195,0.00
+409702,4,09,Mind Blown,010910,Special,5,150,1.00
+409703,4,09,Plasma Fists,010913,Physical,15,100,1.00
+409704,4,09,Photon Geyser,010914,Special,5,100,1.00
+409705,4,09,Light That Burns the Sky,010914,Special,1,200,0.00
+409706,4,09,Searing Sunraze Smash,01099,Physical,1,200,0.00
+409707,4,09,Menacing Moonraze Maelstrom,01098,Special,1,200,0.00
+409708,4,09,Let's Snuggle Forever,010918,Physical,1,190,0.00
+409709,4,09,Splintered Stormshards,01096,Physical,1,190,0.00
+409710,4,09,Clangorous Soulblaze,010916,Special,1,185,0.00
+409711,4,09,Zippy Zap,010913,Physical,10,80,1.00
+409712,4,09,Splishy Splash,010911,Special,15,90,1.00
+409713,4,09,Floaty Fall,01093,Physical,15,90,0.95
+409714,4,09,Pika Papow,010913,Special,20,0,0.00
+409715,4,09,Bouncy Bubble,010911,Special,20,60,1.00
+409716,4,09,Buzzy Buzz,010913,Special,20,60,1.00
+409717,4,09,Sizzly Slide,010910,Physical,20,60,1.00
+409718,4,09,Glitzy Glow,010914,Special,15,80,0.95
+409719,4,09,Baddy Bad,010917,Special,15,80,0.95
+409720,4,09,Sappy Seed,010912,Physical,10,100,0.90
+409721,4,09,Freezy Frost,010915,Special,10,100,0.90
+409722,4,09,Sparkly Swirl,010918,Special,5,120,0.85
+409723,4,09,Veevee Volley,01091,Physical,20,0,0.00
+409724,4,09,Double Iron Bash,01099,Physical,5,60,1.00
+409725,4,09,Max Guard,01091,Status,10,0,0.00
+409726,4,09,Dynamax Cannon,010916,Special,5,100,1.00
+409727,4,09,Snipe Shot,010911,Special,15,80,1.00
+409728,4,09,Jaw Lock,010917,Physical,10,80,1.00
+409729,4,09,Stuff Cheeks,01091,Status,10,0,0.00
+409730,4,09,No Retreat,01092,Status,5,0,0.00
+409731,4,09,Tar Shot,01096,Status,15,0,1.00
+409732,4,09,Magic Powder,010914,Status,20,0,1.00
+409733,4,09,Dragon Darts,010916,Physical,10,50,1.00
+409734,4,09,Teatime,01091,Status,10,0,0.00
+409735,4,09,Octolock,01092,Status,15,0,1.00
+409736,4,09,Bolt Beak,010913,Physical,10,85,1.00
+409737,4,09,Fishious Rend,010911,Physical,10,85,1.00
+409738,4,09,Court Change,01091,Status,10,0,1.00
+409739,4,09,Max Flare,010910,???,10,0,0.00
+409740,4,09,Max Flutterby,01097,???,10,0,0.00
+409741,4,09,Max Lightning,010913,???,10,0,0.00
+409742,4,09,Max Strike,01091,???,10,0,0.00
+409743,4,09,Max Knuckle,01092,???,10,0,0.00
+409744,4,09,Max Phantasm,01098,???,10,0,0.00
+409745,4,09,Max Hailstorm,010915,???,10,0,0.00
+409746,4,09,Max Ooze,01094,???,10,0,0.00
+409747,4,09,Max Geyser,010911,???,10,0,0.00
+409748,4,09,Max Airstream,01093,???,10,0,0.00
+409749,4,09,Max Starfall,010918,???,10,0,0.00
+409750,4,09,Max Wyrmwind,010916,???,10,0,0.00
+409751,4,09,Max Mindstorm,010914,???,10,0,0.00
+409752,4,09,Max Rockfall,01096,???,10,0,0.00
+409753,4,09,Max Quake,01095,???,10,0,0.00
+409754,4,09,Max Darkness,010917,???,10,0,0.00
+409755,4,09,Max Overgrowth,010912,???,10,0,0.00
+409756,4,09,Max Steelspike,01099,???,10,0,0.00
+409757,4,09,Clangorous Soul,010916,Status,5,0,0.00
+409758,4,09,Body Press,01092,Physical,10,80,1.00
+409759,4,09,Decorate,010918,Status,15,0,0.00
+409760,4,09,Drum Beating,010912,Physical,10,80,1.00
+409761,4,09,Snap Trap,010912,Physical,15,35,1.00
+409762,4,09,Pyro Ball,010910,Physical,5,120,0.90
+409763,4,09,Behemoth Blade,01099,Physical,5,100,1.00
+409764,4,09,Behemoth Bash,01099,Physical,5,100,1.00
+409765,4,09,Aura Wheel,010913,Physical,10,110,1.00
+409766,4,09,Breaking Swipe,010916,Physical,15,60,1.00
+409767,4,09,Branch Poke,010912,Physical,40,40,1.00
+409768,4,09,Overdrive,010913,Special,10,80,1.00
+409769,4,09,Apple Acid,010912,Special,10,80,1.00
+409770,4,09,Grav Apple,010912,Physical,10,80,1.00
+409771,4,09,Spirit Break,010918,Physical,15,75,1.00
+409772,4,09,Strange Steam,010918,Special,10,90,0.95
+409773,4,09,Life Dew,010911,Status,10,0,0.00
+409774,4,09,Obstruct,010917,Status,10,0,1.00
+409775,4,09,False Surrender,010917,Physical,10,80,0.00
+409776,4,09,Meteor Assault,01092,Physical,5,150,1.00
+409777,4,09,Eternabeam,010916,Special,5,160,0.90
+409778,4,09,Steel Beam,01099,Special,5,140,0.95
+409779,4,09,Expanding Force,010914,Special,10,80,1.00
+409780,4,09,Steel Roller,01099,Physical,5,130,1.00
+409781,4,09,Scale Shot,010916,Physical,20,25,0.90
+409782,4,09,Meteor Beam,01096,Special,10,120,0.90
+409783,4,09,Shell Side Arm,01094,Special,10,90,1.00
+409784,4,09,Misty Explosion,010918,Special,5,100,1.00
+409785,4,09,Grassy Glide,010912,Physical,20,55,1.00
+409786,4,09,Rising Voltage,010913,Special,20,70,1.00
+409787,4,09,Terrain Pulse,01091,Special,10,50,1.00
+409788,4,09,Skitter Smack,01097,Physical,10,70,0.90
+409789,4,09,Burning Jealousy,010910,Special,5,70,1.00
+409790,4,09,Lash Out,010917,Physical,5,75,1.00
+409791,4,09,Poltergeist,01098,Physical,5,110,0.90
+409792,4,09,Corrosive Gas,01094,Status,40,0,1.00
+409793,4,09,Coaching,01092,Status,10,0,0.00
+409794,4,09,Flip Turn,010911,Physical,20,60,1.00
+409795,4,09,Triple Axel,010915,Physical,10,20,0.90
+409796,4,09,Dual Wingbeat,01093,Physical,10,40,0.90
+409797,4,09,Scorching Sands,01095,Special,10,70,1.00
+409798,4,09,Jungle Healing,010912,Status,10,0,0.00
+409799,4,09,Wicked Blow,010917,Physical,5,75,1.00
+409800,4,09,Surging Strikes,010911,Physical,5,25,1.00
+409801,4,09,Thunder Cage,010913,Special,15,80,0.90
+409802,4,09,Dragon Energy,010916,Special,5,150,1.00
+409803,4,09,Freezing Glare,010914,Special,10,90,1.00
+409804,4,09,Fiery Wrath,010917,Special,10,90,1.00
+409805,4,09,Thunderous Kick,01092,Physical,10,90,1.00
+409806,4,09,Glacial Lance,010915,Physical,5,120,1.00
+409807,4,09,Astral Barrage,01098,Special,5,120,1.00
+409808,4,09,Eerie Spell,010914,Special,5,80,1.00
+409809,4,09,Dire Claw,01094,Physical,15,80,1.00
+409810,4,09,Psyshield Bash,010914,Physical,10,70,0.90
+409811,4,09,Power Shift,01091,Status,10,0,0.00
+409812,4,09,Stone Axe,01096,Physical,15,65,0.90
+409813,4,09,Springtide Storm,010918,Special,5,100,0.80
+409814,4,09,Mystical Power,010914,Special,10,70,0.90
+409815,4,09,Raging Fury,010910,Physical,10,120,1.00
+409816,4,09,Wave Crash,010911,Physical,10,120,1.00
+409817,4,09,Chloroblast,010912,Special,5,150,0.95
+409818,4,09,Mountain Gale,010915,Physical,10,100,0.85
+409819,4,09,Victory Dance,01092,Status,10,0,0.00
+409820,4,09,Headlong Rush,01095,Physical,5,120,1.00
+409821,4,09,Barb Barrage,01094,Physical,10,60,1.00
+409822,4,09,Esper Wing,010914,Special,10,80,1.00
+409823,4,09,Bitter Malice,01098,Special,10,75,1.00
+409824,4,09,Shelter,01099,Status,10,0,0.00
+409825,4,09,Triple Arrows,01092,Physical,10,90,1.00
+409826,4,09,Infernal Parade,01098,Special,15,60,1.00
+409827,4,09,Ceaseless Edge,010917,Physical,15,65,0.90
+409828,4,09,Bleakwind Storm,01093,Special,10,100,0.80
+409829,4,09,Wildbolt Storm,010913,Special,10,100,0.80
+409830,4,09,Sandsear Storm,01095,Special,10,100,0.80
+409831,4,09,Lunar Blessing,010914,Status,5,0,0.00
+409832,4,09,Take Heart,010914,Status,15,0,0.00
+409833,4,09,Tera Blast,01091,Special,10,80,1.00
+409834,4,09,Silk Trap,01097,Status,10,0,0.00
+409835,4,09,Axe Kick,01092,Physical,10,120,0.90
+409836,4,09,Last Respects,01098,Physical,10,50,1.00
+409837,4,09,Lumina Crash,010914,Special,10,80,1.00
+409838,4,09,Order Up,010916,Physical,10,80,1.00
+409839,4,09,Jet Punch,010911,Physical,15,60,1.00
+409840,4,09,Spicy Extract,010912,Status,15,0,0.00
+409841,4,09,Spin Out,01099,Physical,5,100,1.00
+409842,4,09,Population Bomb,01091,Physical,10,20,0.90
+409843,4,09,Ice Spinner,010915,Physical,15,80,1.00
+409844,4,09,Glaive Rush,010916,Physical,5,120,1.00
+409845,4,09,Revival Blessing,01091,Status,1,0,0.00
+409846,4,09,Salt Cure,01096,Physical,15,40,1.00
+409847,4,09,Triple Dive,010911,Physical,10,30,0.95
+409848,4,09,Mortal Spin,01094,Physical,15,30,1.00
+409849,4,09,Doodle,01091,Status,10,0,1.00
+409850,4,09,Fillet Away,01091,Status,10,0,0.00
+409851,4,09,Kowtow Cleave,010917,Physical,10,85,0.00
+409852,4,09,Flower Trick,010912,Physical,10,70,0.00
+409853,4,09,Torch Song,010910,Special,10,80,1.00
+409854,4,09,Aqua Step,010911,Physical,10,80,1.00
+409855,4,09,Raging Bull,01091,Physical,10,90,1.00
+409856,4,09,Make It Rain,01099,Special,5,120,1.00
+409857,4,09,Psyblade,010914,Physical,15,80,1.00
+409858,4,09,Hydro Steam,010911,Special,15,80,1.00
+409859,4,09,Ruination,010917,Special,10,0,0.90
+409860,4,09,Collision Course,01092,Physical,5,100,1.00
+409861,4,09,Electro Drift,010913,Special,5,100,1.00
+409862,4,09,Shed Tail,01091,Status,10,0,0.00
+409863,4,09,Chilly Reception,010915,Status,10,0,0.00
+409864,4,09,Tidy Up,01091,Status,10,0,0.00
+409865,4,09,Snowscape,010915,Status,10,0,0.00
+409866,4,09,Pounce,01097,Physical,20,50,1.00
+409867,4,09,Trailblaze,010912,Physical,20,50,1.00
+409868,4,09,Chilling Water,010911,Special,20,50,1.00
+409869,4,09,Hyper Drill,01091,Physical,5,100,1.00
+409870,4,09,Twin Beam,010914,Special,10,40,1.00
+409871,4,09,Rage Fist,01098,Physical,10,50,1.00
+409872,4,09,Armor Cannon,010910,Special,5,120,1.00
+409873,4,09,Bitter Blade,010910,Physical,10,90,1.00
+409874,4,09,Double Shock,010913,Physical,5,120,1.00
+409875,4,09,Gigaton Hammer,01099,Physical,5,160,1.00
+409876,4,09,Comeuppance,010917,Physical,10,0,1.00
+409877,4,09,Aqua Cutter,010911,Physical,20,70,1.00
+409878,4,09,Blazing Torque,010910,Physical,10,80,1.00
+409879,4,09,Wicked Torque,010917,Physical,10,80,1.00
+409880,4,09,Noxious Torque,01094,Physical,10,100,1.00
+409881,4,09,Combat Torque,01092,Physical,10,100,1.00
+409882,4,09,Magical Torque,010918,Physical,10,100,1.00
+409883,4,09,Blood Moon,01091,Special,5,140,1.00
+409884,4,09,Matcha Gotcha,010912,Special,15,80,0.90
+409885,4,09,Syrup Bomb,010912,Special,10,60,0.85
+409886,4,09,Ivy Cudgel,010912,Physical,10,100,1.00
+409887,4,09,Electro Shot,010913,Special,10,130,1.00
+409888,4,09,Tera Starstorm,01091,Special,5,120,1.00
+409889,4,09,Fickle Beam,010916,Special,5,80,1.00
+409890,4,09,Burning Bulwark,010910,Status,10,0,0.00
+409891,4,09,Thunderclap,010913,Special,5,70,1.00
+409892,4,09,Mighty Cleave,01096,Physical,5,95,1.00
+409893,4,09,Tachyon Cutter,01099,Special,10,50,0.00
+409894,4,09,Hard Press,01099,Physical,10,0,1.00
+409895,4,09,Dragon Cheer,010916,Status,15,0,0.00
+409896,4,09,Alluring Voice,010918,Special,10,80,1.00
+409897,4,09,Temper Flare,010910,Physical,10,75,1.00
+409898,4,09,Supercell Slam,010913,Physical,15,100,0.95
+409899,4,09,Psychic Noise,010914,Special,10,75,1.00
+409900,4,09,Upper Hand,01092,Physical,15,65,1.00
+409901,4,09,Malignant Chain,01094,Special,5,100,1.00
